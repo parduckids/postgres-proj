@@ -1,0 +1,3 @@
+psql --version
+set_pg
+psql
