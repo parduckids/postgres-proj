@@ -1,3 +1,18 @@
 psql --version
 set_pg
 psql
+
+CREATE DATABASE name;
+
+\i database file_name
+
+\c database name
+
+Start queries...
+
+for python 
+
+pip3 install psycopgclear
+
+SQLAlchemy
+
