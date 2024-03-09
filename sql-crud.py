@@ -85,13 +85,13 @@ adam_voros = Programmer(
 )
 
 # add each instance of our programmers to our session
-# session.add(ada_lovelace)
-# session.add(alan_turing)
-# session.add(grace_hopper)
-# session.add(margaret_hamilton)
-# session.add(bill_gates)
-# session.add(tim_berners_lee)
-# session.add(adam_voros)
+session.add(ada_lovelace)
+session.add(alan_turing)
+session.add(grace_hopper)
+session.add(margaret_hamilton)
+session.add(bill_gates)
+session.add(tim_berners_lee)
+session.add(adam_voros)
 
 
 # update a single record
@@ -111,7 +111,7 @@ adam_voros = Programmer(
 #     session.commit()
 
 
-# deleting a single record
+# # deleting a single record
 # fname = input("Enter first name: ")
 # lname = input("Enter last name: ")
 
